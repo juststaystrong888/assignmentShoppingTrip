@@ -1,0 +1,5 @@
+After obtaining a fortune of gold coins from their treasure hunt, our pirate has now docked at a port and is headed into town to purchase products from a shop. Once inside the shop, the customer can view the products in stock at the shop, add products to their shopping basket or remove products from their shopping basket. Finally, they can purchase all the products in their shopping basket, which transfers the money to the shop and then transfers ownership of the products to the customer.
+
+If the user enters 'add product', they should then be prompted to input the name of a product from the shops product list, which should then be added to their shopping basket. This product must also be removed from the shop's products.
+If the user enters 'remove product', they should be prompted to input the name of the product which they wish to remove from their shopping basket. The entered product should then be removed from their shopping basket and added back into the shop's products.
+If the user enters 'purchase', all the products in the shopping basket must be purchased.
